@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://atituiweit.youresearch.org/sitemap.xml
